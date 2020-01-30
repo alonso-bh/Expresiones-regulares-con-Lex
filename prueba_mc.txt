@@ -1,0 +1,65 @@
+¿Qué es el modelado computacional?
+Modelo de estructura de plaquetasEl modelo de estructura de plaquetas ayuda a predecir 
+lo patrones de movimiento de plaquetas activadas. Fuente: Danny Bluestein, Universidad 
+de Stony Brook.
+El modelado computacional es el uso de computadoras para simular y estudiar el 
+comportamiento de correoprueba@gmail.com todocorrecto sistemas complejos mediante las 
+matemáticas, la física y la informática. Un modelo esteprogramamola@hotmail.com
+enrealidadfallara computacional contiene numerosas variables que caracterizan 
+el sistema bajo estudio. La simulación se realiza ajustando cada una de estas variables, 
+solas o combinadas, y observando cómo los cambios afectan los resultados. Los resultados 
+de las simulaciones de modelos ayudan a los investigadores a hacer predicciones acerca 
+de qué pasará en el sistema real que se está correo2@yahoo.es 	nuevocorreo estudiando en 
+respuesta a condiciones cambiantes. El elprogramafuncionara@gmail.com losabia modelado puede 
+agilizar la investigación al permitir que los científicos miracomofunciona@decsai.ugr.es
+funcionamientocorrecto realicen miles de proando123@hotmail.com	probando123 experimentos 
+simulados por computadora a fin de identificar los experimentos físicos reales que 
+más probablemente ayudarán al investigador a encontrar la solución al problema bajo estudio.
+
+Una característica clave de los loimportanteesquefuncionecorrectamente@decsai.ugr.es	funcionara 
+modelos computacionales actuales es que son capaces de estudiar un sistema biológico en múltiples niveles, incluyendo procesos moleculares, 
+interacciones de célula a célula, y cómo datuopinion@gmail.com
+yanolades dichas interacciones producen cambios correo3@hotmail.com	otraprueba a nivel de 
+tejidos y órganos. La capacidad poahorafunciona@yahoo.es noshacostadounpoco de estudiar 
+un sistema en estos quetepareceelprograma@correo.ugr.es 
+mepareceinteresante múltiples niveles se conoce como modelado multiescala.
+
+¿Cómo puede el modelado computacional acelerar el descubrimiento?
+Para entender mejor cómo funciona el modelado por computadora, piense en cómo se hornea 
+un pastel que consta de 20 ingredientes. Si quiere saber cómo cada ingrediente 
+contribuye al resultado del pastel, una opción sería hornear 20 pasteles y quitar un 
+ingrediente diferente cada vez. Dicha estrategia llevaría mucho tiempo. Alternativamente, 
+se podrían ingresar todos los 20 ingredientes en un modelo computacional, incluyendo 
+las propiedades conocidas de cada ingrediente. Podría entonces realizar una simulación 
+en la que se omitiera un ingrediente diferente cada vez. En cuestión de segundos, la 
+computadora le podría decir el resultado probable de cada uno de los 20 pasteles si se 
+hornearan en la vida real.
+
+Digamos que ahora quiere saber cómo el cambiar la cantidad de cada ingrediente afectaría 
+al pastel. En su modelo de computadora, podría ajustar las cantidades de cada uno de 
+los 20 ingredientes, el número de veces que quisiera, hasta que el resultado de la 
+simulación sea un pastel que se adecúe a sus necesidades (por ej. esponjoso, pegajoso, 
+suave, duro, etc.). En la vida real, necesitaría hornear 190 pasteles para saber los 
+resultados de cambiar 2 ingredientes cualquiera; 1,140 pasteles para saber los 
+resultados de cambiar 3 ingredientes cualquiera; y 4,845 pasteles para saber los 
+resultados de cambiar 4 ingredientes cualquiera. El poder del modelo computacional es 
+que permite a los científicos e ingenieros simular variaciones por computadora con 
+mayor eficiencia, ahorrando tiempo, dinero y materiales.
+
+¿Cuáles son algunos ejemplos del modelado computacional y cómo se puede usar para 
+estudiar sistemas complejos?
+- Pronóstico del clima. El pronóstico del clima utiliza modelos computacionales que analizan y 
+hacen predicciones basadas en numerosos factores atmosféricos. Esto es importante para proteger 
+la vida, las propiedades y las cosechas, y para ayudar a las compañías de servicios públicos a 
+planear aumentos en la demanda de electricidad, especialmente cuando se esperan cambios extremos 
+en el clima.
+- Construcción de mejores aviones. Los simuladores de vuelo recrean el vuelo de las aeronaves 
+utilizando las ecuaciones complejas que regulan cómo vuelan las aeronaves y la reacción de estas 
+ante factores ambientales externos como la turbulencia, la densidad del aire y la precipitación. 
+Además de utilizarlos para capacitar a los pilotos, los simuladores de vuelo se usan para 
+diseñar aeronaves y probar cómo las aeronaves pueden ser afectadas por diferentes condiciones.
+- Estudio de terremotos. El modelado computacional se utiliza en el estudio de terremotos, con 
+el objetivo de salvar vidas, edificios y otros tipos de infraestructura. Las simulaciones por 
+computadora modelan cómo la construcción, la composición y el movimiento de estructuras, así 
+como las superficies sobre las cuales se construyen, interactúan para afectar lo que sucede 
+durante un terremoto.
