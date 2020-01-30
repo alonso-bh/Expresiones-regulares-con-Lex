@@ -1,4 +1,4 @@
-# Expresiones-regulares-con-Lex
+# Expresiones regulares con Lex (flex++)
 Práctica de la asignatura Modelos de Computación del Grado en Ingeniería Informática de la Universidad de Granada.
 
 AUTORES:
