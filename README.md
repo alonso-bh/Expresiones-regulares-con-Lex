@@ -18,7 +18,7 @@ Estos paquetes se pueden instalar con el gestor de paquetes APT de Linux, o cual
 
 ## Información sobre la ejecución del programa
 
-El fichero `ejecutar`, disponible en este repositorio, contiene las órdenes a ejecutar para poder probar el programa. Utilice el fichero de entrada `prueba_mc.txt`, y como fichero de salida, donde se guardará la información extraída, el fichero `salida.txt`, que ahora contiene el resultado de una ejecución correcta realizada previamente. Este contenido se sobreescribirá automáticamente por el programa cuándo termine de ejecutarse.
+El fichero `ejecutar.sh`, disponible en este repositorio, contiene las órdenes completas a ejecutar para poder probar el programa. Se usa el fichero de entrada `prueba_mc.txt`, y como fichero de salida, donde se guardará la información extraída, el fichero `salida.txt`, que ahora contiene el resultado de una ejecución correcta realizada previamente. Este contenido se sobreescribirá automáticamente por el programa cuándo termine de ejecutarse.
 
 ## Recomendaciones sobre el Sistema Operativo
 Se recomienda utilizar distribuciones Linux para hacer las pruebas con la aplicación.
